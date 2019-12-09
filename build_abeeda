@@ -1,5 +1,0 @@
-echo "building ..."
-
-g++ -o abeeda -O3 globalConst.h tANN.cpp tANN.h main.cpp tAgent.cpp tAgent.h tGame.cpp tGame.h tHMM.cpp tHMM.h
-
-echo "build complete!"
